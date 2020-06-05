@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Tour Guid App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monuments">Monuments</string>
+    <string name="events">Events</string>
+    <string name="resturants">Resturants</string>
+    <string name="hotels">Hotels</string>
+
+    <string name="statu_name">Statue of Liberty</string>
+    <string name="statu_phone">Phone: Not Available</string>
+    <string name="statu_address">Address: New York, NY 10004</string>
+    <string name="statu_overview">Overview: The Statue of Liberty Enlightening the World was a gift of friendship from the people of France to the people of the United States and is a universal symbol of freedom and democracy. The Statue of Liberty was dedicated on October 28, 1886, designated as a National Monument in 1924 and restored for her centennial on July 4, 1986.</string>
+
+    <string name="alice_name">Alice in Wonderland Statue</string>
+    <string name="alice_phone">Phone: Not Available</string>
+    <string name="alice_address">Address: 76th Street and 5th Avenue near Conservatory Lake, New York City, NY 10021</string>
+    <string name="alice_overview">Overview: The Alice in Wonderland statue in Central Park is one of the most popular out of the dozens that stand throughout the park. It is a depiction of a scene from Lewis Carroll’s classic novel, Alice’s Adventures in Wonderland, and shows the protagonist, Alice, sitting on top of a mushroom and reaching out to grasp the White Rabbit’s pocketwatch. The Mad Hatter stands beside her, looking like he could burst into hysterical laughter at any given moment, while the famed Cheshire Cat looks intently over Alice’s shoulder at the scene before him. At the base of the sculpture are engraved words from the first lines of a quirky and nonsensical poem by Lewis Carroll called Jabberwocky. This sculpture is a must-see attraction for any fan of Disney movies, classic literature, or Alice in Wonderland.</string>
+
+    <string name="atlus_name">Atlus</string>
+    <string name="atlus_phone">Phone: Not Available</string>
+    <string name="atlus_address">Address: 45 Rockefeller Plaza, New York, NY 10111</string>
+    <string name="atlus_overview">Overview: Atlas is a bronze statue in front of Rockefeller Center in midtown Manhattan, New York City, across Fifth Avenue from St. Patricks Cathedral. The sculpture depicts the Ancient Greek Titan Atlas holding the heavens. It was created by sculptor Lee Lawrie with the help of Rene Paul Chambellan, and it was installed in 1937.The sculpture is in the Art Deco style, as is the entire Rockefeller Center. Atlas in the sculpture is 15 feet tall, while the entire statue is 45 feet tall, as high as a four-story building. It weighs seven tons, and is the largest sculpture at Rockefeller Center. The North-South axis of the armillary sphere on his shoulders points towards the North Star as seen from New York City.</string>
+
+    <string name="oculus_name">The Oculus</string>
+    <string name="oculus_phone">Phone: Not Available</string>
+    <string name="oculus_address">Address: Church St, New York, NY 10006</string>
+    <string name="oculus_overview">Overview: The Oculus is the main station house of what is now known as the World Trade Center Transportation Hub, a terminal on the Port Authority Trans-Hudson (PATH) system. At 800,000 square feet, this space features a mezzanine, retail space, and access to the station’s four underground platforms. In addition to this interior, the Oculus is known for its stark white, sculptural entryway. Together, these spaces perfectly balance function and form—one of Calatrava’s key concerns when designing the site.</string>
+
+    <string name="memorial_name">FDNY Memorial Wall</string>
+    <string name="memorial_phone">Phone: Not Available</string>
+    <string name="memorial_address">Address: 141 Greenwich St, New York, NY 10006</string>
+    <string name="memorial_overview">Overview: The Memorial Wall, dedicated to the 343 members of the NYC Fire Department, as well as volunteer firefighter Glenn J. Winuk, a partner at Holland and Knight who died on that tragic day, is located at FDNY Engine 10 Ladder 10, directly across from the World Trade Center site.</string>
+
+    <string name="john_memorial_name">John Lennon Memorial</string>
+    <string name="john_memorial_phone">Phone: Not Available</string>
+    <string name="john_memorial_address">Address: Imagine, Terrace Dr, New York, NY 10023</string>
+    <string name="john_memorial_overview">Overview: Strawberry Fields was officially dedicated on October 9, 1985, the 45th anniversary of Lennon’s birth. His widow, Yoko Ono Lennon, worked with landscape architect Bruce Kelly and the Central Park Conservancy to create a memorial that would preserve Lennon’s legacy as a visionary of world peace. The Imagine mosaic, made by Italian craftsmen and gifted by the city of Naples, is a testament to Lennon’s global resonance.</string>
+
+    <string name="event_one_name">Christmas Spectacular Starring the Radio City Rockettes</string>
+    <string name="event_one_phone">Phone: Not Available</string>
+    <string name="event_one_address">Address: 1260 Avenue of the Americas Between 50th and 51st Streets, New York City, NY 10020-1701</string>
+    <string name="event_one_overview">Overview: You never forget the memories you make at the Christmas Spectacular Starring the Radio City Rockettes. From the moment you walk into Radio City Music Hall to the very last dazzling dance number, experience the magic that only Rockettes can create. Bring your family for a one-of-a-kind tradition, where wooden soldiers dance, ice skaters glide, snowflakes swirl—and the unmistakable spirit of Christmas in New York City comes alive.</string>
+
+    <string name="event_two_name">Macy Thanksgiving Day Parade</string>
+    <string name="event_two_phone">Phone: Not Available</string>
+    <string name="event_two_address">Address: Herald Square 151 W 34th St, New York City, NY</string>
+    <string name="event_two_overview">Overview: The Macy Thanksgiving Day Parade is about as American as apple pie and has become a Thanksgiving Day tradition for millions since 1924. The parade runs up Central Park West and 6th Ave in New York City and features an impressive display of floats, marching bands, musical acts, and iconic oversized balloons of famed pop culture characters like Snoopy, Kermit, and Bugs Bunny. Other notable moments include performances from original Broadway casts and an impressive lineup of high school marching bands from around the country. All of the sights, sounds, and glamour of New York City in one holiday extravaganza.</string>
+
+    <string name="event_three_name">The Governors Ball Music Festival</string>
+    <string name="event_three_phone">Phone: Not Available</string>
+    <string name="event_three_address">Address: 1 Randalls Is Randall’s Island Park, New York City, NY 10035</string>
+    <string name="event_three_overview">Overview: Dramatically set in the middle of the East River on Randall’s Island just off of Manhattan, this 3-day festival features a wide-ranging mix of bands that range from indie rock to hip-hop. Fairly new to the festival scene since it debuted in 2011, it has quickly grown into one of New York’s most popular music events. In between sets, attendees can sample treats from New York’s best food trucks, try their luck with a lawn game or just take in the sweeping views of the city.</string>
+
+    <string name="event_four_name">Times Square Countdown</string>
+    <string name="event_four_phone">Phone: Not Available</string>
+    <string name="event_four_address">Address: 1560 Broadway, New York City, NY 10036-1537</string>
+    <string name="event_four_overview">Overview: Millions of revelers come to New York City from around the world and brave the cold for this legendary celebration to ring in the New Year. As crowds gather in Times Square on December 31st, people tune in from all over the world to watch the famous ball drop. At the exact stroke of midnight, the city lights up with a dazzling display of fireworks overhead. Somehow, New York’s most famous neighborhood shines even brighter on this special night.</string>
+
+    <string name="event_five_name">New York City Wine and Food Festival</string>
+    <string name="event_five_phone">Phone: Not Available</string>
+    <string name="event_five_address">Address: 9 W 19th St, New York City, NY 10011-4224</string>
+    <string name="event_five_overview">Overview: The New York City Wine and Food Festival takes place each October as a benefit for the Food Bank for NYC and Share Our Strength No Child Hungry campaign, so you can feel good about filling up with food and drink for a good cause. For four days, the calendar is packed with themed seminars, wine pairings, culinary demos, and other events, held at venues throughout the city and hosted by celebrity chefs from the Food Network and Cooking Channel. The largest and most popular are the walk around Grand Tasting events on Saturday and Sunday, where attendees visit tasting stations from hundreds of chefs from around the country, while mingling with celebrity chefs in the crowd.</string>
+
+    <string name="event_six_name">Hello Panda Festival</string>
+    <string name="event_six_phone">Phone: Not Available</string>
+    <string name="event_six_address">Address: 123-01 Roosevelt Ave Citi Field, New York City, NY 11368</string>
+    <string name="event_six_overview">Overview: The Hello Panda Festival is the largest Chinese lantern festival in North America. Held at Citi Field, this event will showcase over 120 Instagrammable lantern exhibits, 60 food and drink vendors, live performances, modern art exhibits, interactive games, cultural arts and handicrafts, and a holiday market Perfect for a date night or a fun family night out! Dec 6,2019 to Jan 26, 2020</string>
+
+    <string name="restaurant_one_name">Le Coucou</string>
+    <string name="restaurant_one_phone">Phone: 212 271-4252</string>
+    <string name="restaurant_one_address">Address: 138 Lafayette St, New York, NY 10013</string>
+    <string name="restaurant_one_overview">Overview: After taking the Parisian dining scene by storm, internationally acclaimed chef Daniel Rose returns to his home soil with Le Coucou, his New York City collaboration with restaurateur Stephen Starr. The Roman and Williams-designed space is a gracious modern nod to fine European gastronomy, with crisp linens, flickering candles and whitewashed brick serving as subtle framework for Rose’s vivid cooking. Updating classical French cuisine with charm and verve, Rose shrinks the intercontinental divide separating the City of Light and the Big Apple, proving that the true essence of fine French dining can thrive in any time zone.</string>
+
+    <string name="restaurant_two_name">The NoMad Restaurant</string>
+    <string name="restaurant_two_phone">Phone: 212 796-1500</string>
+    <string name="restaurant_two_address">Address: 1170 Broadway, New York, NY 10001</string>
+    <string name="restaurant_two_overview">Overview: NoMad began in New York as a fresh take on the experience of the grand hotels of Europe where old world glamour met the playful spirit of a new age. Fine dining for this generation, our approach to food and beverage is casually elegant, refined yet approachable, open and welcoming.  With a focus on showcasing the finest seasonal ingredients from the region, the NoMad restaurant has earned a Michelin star for what the guide describes as the “kitchen’s ability to turn the ordinary into the sublime.”NoMad is home to a celebrated cocktail program led by Leo Robitschek, having earned numerous Tales of the Cocktail Spirited Awards, the James Beard Award for Outstanding Bar Program, as well as Best Bar in North America and #4 in the world on the list of 50 Best Bars in 2018. As with the culinary approach, the beverage program at NoMad reflects a passion for classic cocktail traditions with a spirit of revelry and whimsy.</string>
+
+    <string name="restaurant_three_name">The Odeon</string>
+    <string name="restaurant_three_phone">Phone: 212 233-0507</string>
+    <string name="restaurant_three_address">Address: 145 W Broadway, New York, NY 10013</string>
+    <string name="restaurant_three_overview">Overview: The Odeon is a New York City classic. This restaurant has been around since 1980, long before these Tribeca streets became lined with Vespas and well-dressed children. We weren’t around back in those days, so we’re not going to be the ones to give you a detailed history of the place. But if you’re looking for a really good read that will definitely make your meal at The Odeon more interesting, take in all six pages of this Vanity Fair article before dinner. Let’s just say...we missed all the good stuff.</string>
+
+    <string name="restaurant_four_name">Carbone</string>
+    <string name="restaurant_four_phone">Phone: 212 254-3000</string>
+    <string name="restaurant_four_address">Address: 181 Thompson St, New York, NY 10012</string>
+    <string name="restaurant_four_overview">Overview: Carbone is an Italian-American restaurant created by Mario Carbone, Rich Torrisi and Jeff Zalaznick. The restaurant pays homage to the essence of the great Italian-American restaurants of mid-20th century in New York, where delicious, exceptionally well-prepared food was served in settings that were simultaneously elegant, comfortable and unpretentious. The food nods to that same history, but takes its culinary cues from the great talents and techniques of the present and of the future. Familiar dishes like Seafood Salad, Linguini Vongole, Lobster Fra Diavola, Chicken Scarpariello and Veal Parmesan elevated to a new level.</string>
+
+    <string name="restaurant_five_name">Wildair</string>
+    <string name="restaurant_five_phone">Phone: 646 954-1231</string>
+    <string name="restaurant_five_address">Address: 142 Orchard St, New York, NY 10002</string>
+    <string name="restaurant_five_overview">Overview: Natural wines and thoughtful, innovative food that feels effortless and always fresh are the staples of WildAir, the sister restaurants to its highly-acclaimed sister restaurant, Contra, located just a couple of doors down. Each dish here is more than it seems from the menu listings: lettuce, for example, is not something one should feel compelled to order off a roster that boasts an impressive list of proteins and interesting flavor profiles. But here, that lettuce is so much more than just lettuce. It is Little Gems coated with ribbons of butter and lettuce dressing (a play on butter lettuce, we presume) and topped with crunchy topped pistachios. The beef options on offer the Wagyu steak and the beef tartare served with sharp cheddar and horseradish–are smart follow ups to the salad you should not underestimate. If you are in the mood for fish, the squid is a winner, as is the scallop crudo, if there is shrimp on the menu, order them they are expertly sourced and could stand on their own when it comes to delicious, fresh from the sea flavor. While this restaurant is all about catching up with friends in a wine bar style environment, you wont feel rushed out. This is the kind of place you will want to take your time in, sipping a weird wine you just discovered–thanks to their curated list.</string>
+
+    <string name="restaurant_six_name">The Pool</string>
+    <string name="restaurant_six_phone">Phone: 646 910-1947</string>
+    <string name="restaurant_six_address">Address: 99 E 52nd St, New York, NY 10022</string>
+    <string name="restaurant_six_overview">Overview: The Four Seasons restaurant, famous for the pool at its center and its cotton candy parting gifts closed its doors last year to the dismay of New York old guard. This year, thanks to Major Food Group, known for Carbone (above), Santina, Parm, Dirty French and more re opened the iconic culinary (and architectural) landmark as THE Grill and The Pool, both located in the Seagram Building home of the once frequented Four Seasons. The Grill, a reinvented chophouse boasts a simple menu of classics redefined. Proteins on the grill abound, and side dishes include broccoli prepared four different ways, seven options of potato preparations and nostalgic add-ons like a crab louis–except this one comes with avocado.</string>
+
+    <string name="hotel_one_name">Four Seasons Hotel New York</string>
+    <string name="hotel_one_phone">Phone: 212 758-5700</string>
+    <string name="hotel_one_address">Address: 57 E 57th St, New York, NY 10022, United States</string>
+    <string name="hotel_one_overview">Overview: The Four Seasons Hotel is an unabashedly grand and extravagant hotel with high vaulted ceilings, marble floors and pillars, and over three hundred rooms and suites throughout its vast structure. However, despite the sheer enormity of its offerings, the hotel manages to exude an air that feels understated rather than oversaturated, subtle and classy rather than opulent. It is an incredibly intimate hotel that is sure to make you fall in love with the city. There are 386 rooms in totality, and all of them feature a stunning view of the city below. If you rise higher you can also start to see the Central Park and the Hudson, and the higher you are the more expansive your view. The rooms may be expensive, however the stay is undeniably pleasant and charming. If you’re looking for restaurants where you can indulge in a hearty meal, you need look no further.</string>
+
+    <string name="hotel_two_name">Park Hyatt New York</string>
+    <string name="hotel_two_phone">Phone: 855 501-3247</string>
+    <string name="hotel_two_address">Address: 153 W 57th St, New York, NY 10019, United States</string>
+    <string name="hotel_two_overview">Overview: The Park Hyatt hotel is sprawled across 25 floors in the 90-storey tall One57 high-rise in Midtown. This luxury hotel is definitely located in one of the classier and trendier locations in New York, as Carnegie Hall is just down the street, and you take a short stroll to either Central Park or Times Square. The hotel goes for a soothing and neutral atmosphere with earthy beige and brown shades dominating the decorations. Even the patterns on the rugs and fabric are soothing, and the couches are of plush Italian leather. There are 210 rooms in all, and the hotel features over 300 contemporary works of art from popular and indie artists. The hotel is replete with tall glass dividers which provides the entire structure with a sense of transparency and light. Three of the top floors also feature a heated swimming pool with speakers underwater, playing some classic tunes off Carnegie Hall. One of the other really impressive aspects of this hotel is the unique service it offers. When you check-in, you are greeted by a staff adept at their iPads, wearing formals, and they take you up to your room in a private elevator while wirelessly communicating with the room staff to get your room ready before you even get there</string>
+
+    <string name="hotel_three_name">The Plaza</string>
+    <string name="hotel_three_phone">Phone: 212 579-3000</string>
+    <string name="hotel_three_address">Address: 768 5th Ave, New York, NY 10019, United States</string>
+    <string name="hotel_three_overview">Overview: This is an independent hotel in a city that is predominantly ruled by large corporations and conglomerates. The location of the hotel is about as well-connected as you could possibly expect. Located on Grand Army Plaza, you can literally treat Central Park as your own personal backyard. In addition to that, all the regular tourist spots are around the neighborhood, and as you leave the hotel you are met with The Apple Store, Wollman Ice Rink, and other trendy locations and stores. This boutique hotel is quite favored by European travelers and celebrities alike. One of the things that sets it apart is its attentive and friendly staff. Guests have to pass by lush gardens to enter the hotel, the lobby features an antique French desk, and you have to pass by cascades of wreathed flowers as you make your way to the elevators. The bathrooms are made in all-marble, with fine Italian furniture and linen.</string>
+
+    <string name="hotel_four_name">Mandarin Oriental, New York</string>
+    <string name="hotel_four_phone">Phone: 212 805-8800</string>
+    <string name="hotel_four_address">Address: 80 Columbus Cir, New York, NY 10023, United States</string>
+    <string name="hotel_four_overview">Overview: The biggest draw for this luxury five star hotel is its expertly chosen location. It’s located atop the Time Warner Center, to the south of Central Park, one of the most popular tourist attractions in New York. As such, the Mandarin Oriental hotel is located within close quarters of all the important parts of the city, with plenty of charming restaurants, cafes, and shopping centers around. The hotel looks over the stunning Hudson River, and the spa service in the hotel is one of the most popular in the city. Overall, there are 202 rooms along with 46 suites, and they range in variations of 11 different aesthetic sensibilities, though all of them have been touched with an Oriental charm. As is customary for Mandarin Oriental hotels, they try to bring an aesthetic sense that is a fusion of eastern asian motifs and accents, along with a rather retro and contemporary style. This feels at once homely, current, and yet exotic.</string>
+
+    <string name="hotel_five_name">The Lowell Hotel</string>
+    <string name="hotel_five_phone">Phone: 212 838-1400</string>
+    <string name="hotel_five_address">Address: 28 E 63rd St, New York, NY 10065, United States</string>
+    <string name="hotel_five_overview">Overview: Located on the Upper East Side, this luxury five star hotel is on one of the most elite parts of the city. As such this hotel firmly places you in the trendiest neighborhood of the city, though within walking distance of Central Park, Museum Mile, and even the more populist attractions of Times Square. The neighborhood is also replete with several boutique fashion outlets and cafes. The lobby of the hotel is quite opulent with marble floors, marble pillars, and full length mirrors. With 74 rooms, the hotel often feels snug and offers its guests the intimacy of a large private house. Some of the rooms even feature fireplaces, and the interiors are primarily made in a conjunction of mahogany wood furnitures, and silk draperies. One of the best rooms at the hotel is the Garden Suite, which comes with two spacious terraces, one of them featuring a mini-fountain, and the other featuring a dining arrangement big enough for four people. Another great attraction is The Pembroke Room which has been designed with a kind of old-world charm, with plush carpeted floors, and a general vibe that is sure to speak to the inner romantic in all of us. However, even the standard rooms are great in their own rights, equipped with coffee tables, marble tiled bathrooms, and work desks as well.</string>
+
+    <string name="hotel_six_name">The Mark Hotel</string>
+    <string name="hotel_six_phone">Phone: 212 744-4300</string>
+    <string name="hotel_six_address">Address: 25 E 77th St, New York, NY 10075, United States</string>
+    <string name="hotel_six_overview">Overview: he Mark could not possibly be located in a better spot. The hotel itself is at the end of a street that is flanked by lush trees on either side. Located in Madison and 77th, it is a mere block away from Central Park and Museum Mile. As such, it is in the very heart of one of the most culturally active sites in the whole city. The hotel itself has been constructed in a modernist style with sharp bold geometric lines and colorful interiors. The hotel bar features a pink back light, and the rooms have plenty of sconces and chic furnishings. The rooms are elegant and technologically heavy with a control panel that can handle the lighting, regulate the temperature of the room, or do anything else you like!</string>
+
+    <string name="hotel_seven_name">The Knickerbocker</string>
+    <string name="hotel_seven_phone">Phone: 212 204-4893</string>
+    <string name="hotel_seven_address">Address: 6 Times Square, New York, NY 10036, United States</string>
+    <string name="hotel_seven_overview">Overview: This luxury five star hotel is centrally located, walking distance from Broadway and Bryant Park, and within reach of the Metropolitan Opera. It was originally built in 1906, had a rocky go in the middle of the century, but then it bounced back up as one of the most charming and hip places in New York. The lobby itself is constructed in plain browns and beige shades, which might seem wholly unremarkable anywhere else, but here it almost stands as a snide commentary on the extravagance and sensory overload of Time Square. The rooms are sound-proof to help guests at once be a part of Time Square, yet find a sanctuary from it if they so choose.</string>
+
+    <string name="hotel_eight_name">The Ritz-Carlton Residences</string>
+    <string name="hotel_eight_phone">Phone: 917 790-1400</string>
+    <string name="hotel_eight_address">Address: 10 West St, New York, NY 10004, United States</string>
+    <string name="hotel_eight_overview">Overview: Located in southern Manhattan, one of the distinct features of this luxury hotel is that you can hear the pleasant calls of seagulls in the morning. Depending on what you want from New York, you would either hate it or love it. It’s quite far removed from the hustle and bustle of the city, which can either make you feel lonely or solitary depending on how you look at it. Every morning, you are greeted with nothing but peace, quite, and pure unadulterated sunshine glittering off the Hudson river. The rooms bear a lemon-yellow and sea-green color palette to further make it more lively and bright.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

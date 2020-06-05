@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".InfoDetailedActivity"
+    android:background="@color/background">
+
+    <ImageView
+        android:id="@+id/image_view_detailed_info"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/s0dp"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="@dimen/s15dp"
+        android:padding="@dimen/s5dp"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/s0dp"
+        android:layout_weight="1"
+        android:fillViewport="true"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/s10dp">
+
+            <TextView
+                android:id="@+id/detailed_name_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:textSize="@dimen/s20sp"
+                android:textStyle="bold|italic"
+                android:fontFamily="serif"
+                android:layout_gravity="center"
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:id="@+id/detailed_address_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Address"
+                style="@style/textViewSpacing"
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:id="@+id/detailed_phone_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Phone no."
+                style="@style/textViewSpacing"
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:id="@+id/detailed_overview_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Overview"
+                style="@style/textViewSpacing"
+                android:textColor="@color/black"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
